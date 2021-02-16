@@ -5,7 +5,7 @@ Cela m'évites de coder en bash que j'aime pas et j'ai remplacé python par php 
 
 ## OldSchool Brutal Dev
 
-Pour le pro et les gros projets le code doit être propre, structurés et respecter les Bests Practices.
+Pour le pro et les gros projets le code doit être propre, structuré et respecter les Bests Practices.
 
 Pour le perso, l'utile :
 
