@@ -1,13 +1,13 @@
 <?php
 /**
  * Script pour rapidement renommer les extensions de fichiers
- * d'un repertoire et des ses sous repertoire
+ * d'un repertoire et des ses sous-repertoires.
  *
  *
  * Utilise la commande linux "find"
  *
  * Utilisation :
- *      copier changement_extension_fichier_en_masse.php dans le repertoire ou renommer les fichiers
+ *      copier changement_extension_fichier_en_masse.php dans le repertoire où renommer les fichiers
  *      éditer les variables $old et $new
  *      php7.4 changement_extension_fichier_en_masse.php
  */
