@@ -5,9 +5,15 @@ Cela m'évites de coder en bash que j'aime pas et j'ai remplacé python par php 
 
 ## OldSchool Brutal Dev
 
-Pour le pro est le gros projets le code doit être propre.
+Pour le pro et les gros projets le code doit être propre, structurés et respecter les Bests Practices.
 
-Pour le perso, le moins de lib, le plus simple et le moins de ligne de code possible.
+Pour le perso, l'utile :
+
+* le moins de lib et dépendance possible
+* le plus simple possible 
+* les scripts sont brutaux, efficaces, autonomes à l'ancienne
+
+
 
 ## Scripts :
 
