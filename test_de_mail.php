@@ -1,6 +1,10 @@
 <?php
 /**
  * Tester rapidement la fonction mail de PHP
+ *
+ * Utilisation :
+ *      éditer les variables $from et $to
+ *      php7.4 test_de_mail.php
  */
 ini_set( 'display_errors', 1 );
 error_reporting( E_ALL );
