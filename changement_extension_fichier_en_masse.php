@@ -8,7 +8,7 @@
  *
  * Utilisation :
  *      copier changement_extension_fichier_en_masse.php dans le repertoire ou renommer les fichiers
- *      editer les variables $old et $new
+ *      éditer les variables $old et $new
  *      php7.4 changement_extension_fichier_en_masse.php
  */
 
